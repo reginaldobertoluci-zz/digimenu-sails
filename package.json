@@ -25,5 +25,8 @@
     "url": "https://github.com/reginaldobertoluci/digimenu-sails.git"
   },
   "author": "Reginaldo Bertoluci Curtio",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "sails-hook-autoreload": "^0.13.1"
+  }
 }

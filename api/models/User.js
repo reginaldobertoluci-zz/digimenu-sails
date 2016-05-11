@@ -33,11 +33,12 @@ module.exports = {
             defaultsTo: '',
             url: true
         },
-        socialProfiles: {
-            type: 'object',
-            defaultsTo: {}
+        venues: {
+          collection: 'venue',
+          via: 'users',
+          dominant: true
         },
- 
+
         toJSON: function () {
             var obj = this.toObject();
             delete obj.password;
