@@ -1,10 +1,11 @@
-# digimenu-sails
+# DigiMenu - Digital restaurant menu system
 
-Menu digital
+Sistema de Menu Digital para Bares e Restaurantantes
 
-1. git clone https://github.com/reginaldobertoluci/digimenu-sails.git
-2. cd digimenu-sails
-3. npm install
-
+```
+git clone https://github.com/reginaldobertoluci/digimenu-sails.git
+cd digimenu-sails
+npm install
+```
 
 Powered by [Sails.js](http://sailsjs.org) - The web framework of your dreams 
